@@ -1,7 +1,7 @@
 # 32-bit-ALU
-# 🧮 32-bit ALU Design using Verilog (Xilinx Vivado)
+#  32-bit ALU Design using Verilog (Xilinx Vivado)
 
-## 📌 Overview
+##  Overview
 This project implements a **32-bit Arithmetic Logic Unit (ALU)** using **Verilog HDL**, designed for **FPGA synthesis and simulation** via **Xilinx Vivado**. The ALU performs core arithmetic, logic, shift, and comparison operations commonly used in CPU architecture.
 
 The design includes:
@@ -11,7 +11,7 @@ The design includes:
 
 ---
 
-## 🧠 Theory – What is an ALU?
+##  Theory – What is an ALU?
 An **Arithmetic Logic Unit (ALU)** is a critical component of the CPU responsible for executing arithmetic (`+`, `-`) and logical operations (`AND`, `OR`, `XOR`). Modern processors use ALUs to perform most computations.  
 This 32-bit ALU mimics the behavior of a processor ALU, providing **flags** for zero, negative, carry, and overflow detection.
 
@@ -35,7 +35,7 @@ This 32-bit ALU mimics the behavior of a processor ALU, providing **flags** for 
 
 ---
 
-## 📊 ALU Status Flags
+##  ALU Status Flags
 
 | Flag | Definition |
 |------|------------|
