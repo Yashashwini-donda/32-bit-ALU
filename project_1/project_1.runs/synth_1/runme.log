@@ -1,0 +1,4 @@
+
+*** Running vivado
+    with args -log alu32.vds -m64 -product Vivado -mode batch -messageDb vivado.pb -notrace -source alu32.tcl
+
